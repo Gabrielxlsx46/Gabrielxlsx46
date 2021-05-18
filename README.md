@@ -1,0 +1,3 @@
+- Oi, meu nome é Gabriel e eu não sei exatamente o que estou fazendo...
+- Atualmente estou descobrindo um mundo novo, o mundo do Python e das finanças.
+- É isso.
